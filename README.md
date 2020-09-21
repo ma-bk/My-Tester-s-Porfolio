@@ -18,7 +18,7 @@ Certified Software Tester looking for opportunities to develop my career in Test
   - Writing app review 
 ## Courses
  - Software Development Academy - Software Tester
- - University of Maryland (edx.org) - Agile Innovation and Problem Solving Skills
+ - University of Maryland (edx.org) - Agile Innovation and Problem Solving Skills (in progress)
  - Harvard University (edx.org) - CS50's Introduction to Computer Science (in progress)
 ## Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - no. 14758/FLTC/2020
