@@ -43,6 +43,6 @@ Certified Software Tester looking for opportunities to develop my career in Test
  - [Bug report for https://littlecaesars.com/](https://docs.google.com/document/d/1t0l6-d298tGTotJbMIvKqCTXYr9IxxMMOW_qb_i-2Qo/edit?usp=sharing)
  - [Bug report for https://zara.com/](https://docs.google.com/document/d/12ednodxNEGdWIFpffxQCQTMQLuC9wCNEWkMAOiUSzO0/edit?usp=sharing)
 ## My projects 
- - [Scratch project]- CS50's Course(https://scratch.mit.edu/projects/383257615/)
- - [Mario project] - CS50's Course(https://github.com/me50/ma-bk/blob/cs50/problems/2020/x/mario/less/mario.c)
+ - [Scratch project](https://scratch.mit.edu/projects/383257615/)
+ - [Mario project](https://github.com/me50/ma-bk/blob/cs50/problems/2020/x/mario/less/mario.c)
  
