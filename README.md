@@ -38,6 +38,7 @@ Certified Software Tester looking for opportunities to develop my career in Test
  - Pasjainformatyki.pl
 ## Webinars I've attended
  - Sii Polska - Jak zostać Scrum Masterem?
+ - InfoShare 2020
 ## My bug raports
  - [Bug report for https://dominospizza.pl/](https://docs.google.com/document/d/1aDBjQpU4FpVp2yKhxa8EkWAwQEvLekNJ3fh_hWODwwc/edit?usp=sharing)
  - [Bug report for https://littlecaesars.com/](https://docs.google.com/document/d/1t0l6-d298tGTotJbMIvKqCTXYr9IxxMMOW_qb_i-2Qo/edit?usp=sharing)
