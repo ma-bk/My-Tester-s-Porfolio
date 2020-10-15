@@ -7,6 +7,7 @@ Certified Software Tester looking for opportunities to develop my career in Test
   - TestLink
   - TestRail
   - iMazing
+  - Charles Proxy
 ## Tech skills
   - Python
   - SQL
