@@ -50,5 +50,5 @@ Certified Software Tester looking for opportunities to develop my career in Test
  - [Bug report for https://zara.com/](https://docs.google.com/document/d/12ednodxNEGdWIFpffxQCQTMQLuC9wCNEWkMAOiUSzO0/edit?usp=sharing)
 ## My projects 
  - [Scratch project](https://scratch.mit.edu/projects/383257615/)
- - [Mario project](https://github.com/me50/ma-bk/blob/cs50/problems/2020/x/mario/less/mario.c)
+ - [Mario project](https://github.com/ma-bk/My-Tester-s-Porfolio/blob/master/mario.c)
  
